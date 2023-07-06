@@ -16,4 +16,4 @@ function ChildComponent1(props) {
   );
 }
 
-export default ChildComponent1s;
+export default ChildComponent1;
